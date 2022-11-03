@@ -8,6 +8,8 @@ This could be also a header
 
 This could be too
 ---------
+
+![]()
 -------
 
 ```
