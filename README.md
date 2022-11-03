@@ -9,7 +9,7 @@ This could be also a header
 This could be too
 ---------
 
-![]()
+![cpp-logo](https://user-images.githubusercontent.com/48283895/199665714-e6dd1d42-2224-4856-a7e9-4fbef9ada5c6.png)
 -------
 
 ```
