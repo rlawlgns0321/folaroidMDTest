@@ -18,3 +18,6 @@ This could be too
   System.out.println("Hello World!");
   return 0;
 ```
+
+| this | is | table |
+| i | know | |
