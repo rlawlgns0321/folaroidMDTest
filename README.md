@@ -21,4 +21,4 @@ This could be too
 
 ||||
  ------- | --- | -----
-| i | know | too |
+| i | know | too
