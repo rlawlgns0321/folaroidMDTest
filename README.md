@@ -20,4 +20,4 @@ This could be too
 ```
 
 | this | is | table |
-| i | know | |
+| i | know | too |
