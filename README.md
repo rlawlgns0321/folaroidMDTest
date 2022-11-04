@@ -19,6 +19,6 @@ This could be too
   return 0;
 ```
 
-| this | is | table |
- --- | ---
+|  | | |
+ --- | --- | ---
 | i | know | too |
