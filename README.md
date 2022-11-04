@@ -19,8 +19,9 @@ This could be too
   return 0;
 ```
 
-||||
--| :----: |--
+|header1|  header2| header3   |
+-:| :----: |:--
+in | the | table
 
 
 iii
