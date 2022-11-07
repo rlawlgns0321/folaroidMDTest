@@ -32,7 +32,6 @@ iii
 1. What is list?
   i dont know
   but i want to know
-  if it is list
-  
+  if it is list 
 test testtest
  
